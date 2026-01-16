@@ -32,8 +32,8 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de progr
 
 ### Links
 
-- URL da solução: *(adicione aqui o link da sua solução no Frontend Mentor)*  
-- URL do site ao vivo: *(adicione aqui o link do site publicado)*
+- URL da solução: *(https://www.frontendmentor.io/solutions/four-card-feature-section-4l8BGtPTyP)*  
+- URL do site ao vivo: *(https://lanzincode.github.io/four-card-feature-section-master/)*
 
 ---
 
